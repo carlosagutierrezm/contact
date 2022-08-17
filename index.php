@@ -7,7 +7,7 @@
 </head>
 <body>
     <form method="post">
-    	<h1>¡Suscribete!</h1>
+    	<h1>Registrar usuario</h1>
     	<input type="text" name="nombre" placeholder="Nombre completo">
     	<input type="text" name="pais" placeholder="Pais">
         <input type="text" name="celular" placeholder="Celular">
